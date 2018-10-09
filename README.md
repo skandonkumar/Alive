@@ -30,4 +30,6 @@ Example Output:
 possible 
 impossible
 
+//If you think the text is not in format, please hit the raw button on the top.
+
 
